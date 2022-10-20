@@ -1,0 +1,42 @@
+body {
+    background: rgb(10, 214, 233);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.266);
+    
+    
+}
+
+#botãoVeri {
+    text-align: center;
+}
+#res {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    margin-top: 10px;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
